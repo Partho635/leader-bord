@@ -1,0 +1,84 @@
+.heading-nav{
+  background: #562EFF;
+}
+.navbar img{
+  width: 40px;
+}
+.nav-link{
+  color: #fff !important;
+}
+body{
+  background: #f3f1ff;
+}
+.container{
+  max-width: 800px;
+}
+.top-player h3{
+  color: #562eff;
+}
+.player img{
+  width: 40px;
+}
+.top-player,.course{
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+.blog-img{
+  width: 177px;
+  height: 117px;
+  border-radius: 10px;
+}
+.blog-text h2{
+  font-size: 19px;
+  font-weight: bold;
+}
+.blog-text h5{
+  font-weight: lighter;
+  font-size: 17px;
+}
+.blog-text h5 span{
+  color: #562eff;
+  font-weight: normal;
+  margin-left: 5px;
+}
+.course-img{
+  width: 100%;
+  height: 109px !important;
+}
+.card{
+  padding: 10px;
+  border: none;
+  box-shadow: 5px 5px 10px #E1E1E7, -5px -5px 10px #e1e1e7;
+  border-radius: 10px;
+}
+.card-title{
+  font-size: 20px;
+  font-weight: bold;
+}
+.card-text{
+  color: #ed6b4f;
+}
+.card-foot{
+  border: none;
+  background: #fff;
+  font-size: 19px;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+.card-foot .icon > i{
+  font-size: 12px;
+  color: #ffc014;
+}
+.course-time{
+  height: 30px;
+  width: 85px;
+  padding: 3px 5px;
+  border-radius: 50px;
+  background: #ffe4e8;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: bold;
+  margin-top: 5px;
+}
