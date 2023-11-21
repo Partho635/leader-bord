@@ -5,6 +5,9 @@ body{
 a{
   text-decoration: none;
 }
+p{
+  font-size: 14px;
+}
 .container{
   max-width: 870px;
 }
@@ -51,4 +54,34 @@ header{
 .card-text{
   font-size: 14px;
   margin-top: -5px !important;
+}
+.card-foot img{
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+.icon i{
+  color: #FFC014;
+
+}
+.hour{
+  background: #FFE4E8;
+  padding: 5px;
+  height: 30px;
+  border-radius: 50px;
+}
+.card-foot .hour p{
+  color: #FF4A60;
+}
+.course{
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+.course .card{
+  width: 270px;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 0 6px 15px rgb(0 0 0 /0.1);
 }
